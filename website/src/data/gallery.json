@@ -1,5 +1,12 @@
 [
   {
+    "title": "EmailTo.Ai - ChatGPT for your Inbox",
+    "link": "https://www.emailto.ai",
+    "description": "A ChatGPT wrapper that can be used via email. Simply send an email to Send@EmailTo.Ai. It also allows the creation of sport reminders and can convert attached files.",
+    "image": "emailtoai.png",
+    "tags": ["tools", "groupchat", "email"]
+  },
+  {
     "title": "AutoTx - Crypto Transactions Agent",
     "link": "https://blog.polywrap.io/p/autotx-your-ai-powered-transaction",
     "description": "Generates on-chain transactions, which are submitted to a smart account so users can easily approve & execute them.",
